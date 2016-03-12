@@ -1,0 +1,8 @@
+sudo chgrp moonlit
+sudo chown moonlit
+ 
+ sudo chmod 755 *.* (rwxr-xr-x)
+The directory owner has full access. All others may list the directory, but cannot create files nor delete them. This setting is common for directories that you wish to share with other users.
+
+sudo chown -R moonlit *
+sudo chgrp -R moonlit *
