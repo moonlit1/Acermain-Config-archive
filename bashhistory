@@ -1,0 +1,33 @@
+sudo dolphin
+cls
+clear
+sudo add-apt-repository ppa:enlightenment-git/ppa
+sudo apt-get update
+sudo apt-get install terminology
+sudo apt-get upgrade
+sudo apt-get install dkms
+ruby --version
+sudo dolphin
+tyls
+cd virtualdiskimages
+tyls
+chmod u=rwx,g=rx,o=r manjaro I3.vdi
+cd
+sudo apt-get zsh
+sudo apt-get install zsh
+sudo dpkg --confifgure -a
+sudo dpkg --configure -a
+sudo apt-get install zsh
+zsh --version
+echo $shell
+echo $SHELL
+chsh -s 'zsh'
+sudo chsh --shell=/bin/zsh $USER
+echo $SHELL
+sudo chsh --shell=/bin/zsh $USER
+echo $SHELL
+sudo chsh -s $ZSH
+sudo chsh -s $zsh
+echo $SHELL
+exit
+sudo dolphin
