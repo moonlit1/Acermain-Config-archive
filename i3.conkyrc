@@ -4,7 +4,7 @@
 
 ###
 #use_xft yes
-#xftfont Helvetica:size=15
+#xftfont Helvetica:size=15n
 #xftalpha 0.9
 
 ##No output to X <yes/no>
